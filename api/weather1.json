@@ -1,0 +1,38 @@
+{
+    "city": "北京",
+    "time": {
+        "period": "下午",
+        "clock": "04:21"
+    },
+    "forecast": [
+        {
+            "date": "20",
+            "weather": "晴",
+            "temperature": "36度"
+        },
+        {
+            "date": "21",
+            "weather": "小雨",
+            "temperature": "28度"
+        },
+        {
+            "date": "22",
+            "weather": "晴雨",
+            "temperature": "30度"
+        },
+        {
+            "date": "23",
+            "weather": "大雨",
+            "temperature": "23度"
+        },
+        {
+            "date": "24",
+            "weather": "大雨",
+            "temperature": "22度"
+        }
+    ],
+    "news": [
+        "AmaoAxiao火热上线",
+        "萧萧被评为亚洲最帅"
+    ]
+}
